@@ -1,0 +1,2 @@
+﻿  main.cpp
+opencv_calib3d330d.lib(opencv_calib3d330d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

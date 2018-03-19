@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\guangyan shen\desktop\disparity\disparity\main.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Disparity.vcxproj -> C:\Users\Guangyan Shen\Desktop\Disparity\x64\Debug\Disparity.exe
+  Disparity.vcxproj -> C:\Users\Guangyan Shen\Desktop\Disparity\x64\Debug\Disparity.pdb (Partial PDB)
